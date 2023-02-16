@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayu-jaiswal
-- 👀 I’m interested in Software Developer.
-- 🌱 I’m currently learning python, data structure.
+- 👀 I’m interested in Software Developer/Web developer.
+- 🌱 I’m know python, data structure, HTML ,CSS, JavaScript, React.
 - 💞️ I’m looking to collaborate on MNC company and also for my dream comapny Google.
 - 📫 How to reach me already know about it.
 
