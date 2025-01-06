@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayu-jaiswal
-- 👀 I’m interested in Software Developer/Web developer.
-- 🌱 I’m know python, data structure, HTML ,CSS, JavaScript, React.
+- 👀 I’m a Software Developer/Web developer.
+- 🌱 I’m know HTML, CSS, JavaScript, Node.js, Express.js, React, MongoDB, RESTfulAPIs, JWT Tokens, CRUD, JSON .
 - 💞️ I’m looking to collaborate on MNC company and also for my dream comapny Google.
 - 📫 How to reach me already know about it.
 
